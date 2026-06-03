@@ -15,7 +15,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # --- CONFIGURATION ---
-BOT_TOKEN = "8126344610:AAGXgcQ9-CslF34-DY6DsVJQoq-LJAlpQ3g"  # Apna Bot Token yahan dalein
+BOT_TOKEN = "BOT_TOKEN"  # Apna Bot Token yahan dalein
 ADMIN_CHAT_ID = 123456789          # <--- YAHAN APNI TELEGRAM USER ID DALEIN (e.g., 54637281)
 CHANNELS = ["@araspacez", "@uxiopix"]
 CHANNEL_LINKS = ["https://t.me/araspacez", "https://t.me/uxiopix"]
